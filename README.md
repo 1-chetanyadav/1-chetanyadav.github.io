@@ -2,7 +2,7 @@
 these text and images will be fetched by my extension>> fun experiment.
 
 Quotes:
-Sure — I’ll separate them into **funny/light quotes** and **Fang Yuan-style ruthless life philosophy**, then some **real philosophers’ quotes**.
+
 
 ### 😂 10 Fun Quotes About Life
 
